@@ -1,0 +1,1 @@
+# 6.Python_Datatype_Collection_Sequences-properties
